@@ -1,5 +1,4 @@
 #!/bin/bash
-unset IPFS_PATH
 # set DigitalOcean variables
 REGION="tor1"
 SIZE="s-8vcpu-16gb"
